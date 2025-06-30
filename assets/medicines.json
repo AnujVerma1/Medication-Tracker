@@ -1,0 +1,75 @@
+{
+    "medicines": [
+      {
+        "name": "Paracetamol",
+        "use": "Pain relief, fever reduction",
+        "safeDosage": "500-1000 mg every 4-6 hours (max 4000 mg/day)",
+        "precautions": "Avoid alcohol; consult a doctor for liver/kidney disease.",
+        "sideEffects": ["Nausea", "Allergic reactions", "Liver damage (high doses)"]
+      },
+      {
+        "name": "Ibuprofen",
+        "use": "Pain relief, inflammation reduction",
+        "safeDosage": "200-400 mg every 4-6 hours (max 1200 mg/day)",
+        "precautions": "Take with food; avoid if you have ulcers or kidney issues.",
+        "sideEffects": ["Stomach pain", "Nausea", "Heartburn", "Increased blood pressure"]
+      },
+      {
+        "name": "Amoxicillin",
+        "use": "Antibiotic for bacterial infections",
+        "safeDosage": "500-875 mg every 8-12 hours (as directed by a doctor)",
+        "precautions": "Complete the full course; avoid if allergic to penicillin.",
+        "sideEffects": ["Diarrhea", "Rash", "Nausea", "Allergic reactions"]
+      },
+      {
+        "name": "Loratadine",
+        "use": "Allergy relief",
+        "safeDosage": "10 mg once daily",
+        "precautions": "Avoid in severe liver disease; consult a doctor during pregnancy.",
+        "sideEffects": ["Dry mouth", "Headache", "Drowsiness (rare)"]
+      },
+      {
+        "name": "Aspirin",
+        "use": "Pain relief, fever reduction, blood thinning",
+        "safeDosage": "300-600 mg every 4-6 hours (max 4000 mg/day)",
+        "precautions": "Avoid in children (risk of Reye’s syndrome); consult for bleeding disorders.",
+        "sideEffects": ["Stomach irritation", "Bleeding", "Allergic reactions"]
+      },
+      {
+        "name": "Cetirizine",
+        "use": "Allergy relief",
+        "safeDosage": "5-10 mg once daily",
+        "precautions": "Avoid alcohol; consult a doctor if pregnant or breastfeeding.",
+        "sideEffects": ["Drowsiness", "Dry mouth", "Fatigue"]
+      },
+      {
+        "name": "Metformin",
+        "use": "Blood sugar control in diabetes",
+        "safeDosage": "500-2000 mg/day in divided doses",
+        "precautions": "Avoid in kidney disease; monitor for lactic acidosis.",
+        "sideEffects": ["Nausea", "Diarrhea", "Metallic taste", "Vitamin B12 deficiency"]
+      },
+      {
+        "name": "Omeprazole",
+        "use": "Acid reflux, GERD",
+        "safeDosage": "20-40 mg once daily for 4-8 weeks",
+        "precautions": "Avoid long-term use; consult a doctor for severe liver disease.",
+        "sideEffects": ["Headache", "Nausea", "Stomach pain", "Bone fractures (long-term use)"]
+      },
+      {
+        "name": "Azithromycin",
+        "use": "Antibiotic for bacterial infections",
+        "safeDosage": "500 mg on day 1, then 250 mg daily for 4 days",
+        "precautions": "Avoid in severe liver disease; take on an empty stomach.",
+        "sideEffects": ["Diarrhea", "Nausea", "Abdominal pain", "Allergic reactions"]
+      },
+      {
+        "name": "Naproxen",
+        "use": "Pain relief, inflammation reduction",
+        "safeDosage": "250-500 mg every 12 hours (max 1000 mg/day)",
+        "precautions": "Take with food; avoid in heart or kidney disease.",
+        "sideEffects": ["Stomach pain", "Nausea", "Heartburn", "Increased blood pressure"]
+      }
+    ]
+  }
+  
